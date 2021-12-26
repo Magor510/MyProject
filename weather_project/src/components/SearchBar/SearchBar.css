@@ -1,0 +1,41 @@
+.SearchBar {
+    width: 100%;
+    height: 30vh;
+    text-align: center;
+    background-image: url('https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Mirror-u51VDzqsRRbas9mW.jpg');
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    position:relative;
+}
+
+.SearchBar input {
+    border: 0;
+    height: 38px;
+    margin-right: 15px;
+    text-align: center;
+    border-bottom: 1px solid #17a2b8;
+
+}
+
+.SearchBar input:focus {
+    outline: 0;
+}
+
+.SearchBar .SearchBarChilds {
+    top: 50%;
+    left: 40%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+}
+
+.SearchBar .SearchBarChilds .fomSearchCity {
+    display: flex;
+}
+
+@media (min-width: 1399px) {
+    .SearchBar{
+        width: 30%;
+        height: 100vh;
+    }
+}
