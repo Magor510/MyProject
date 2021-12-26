@@ -1,0 +1,48 @@
+.ProductCard {
+	max-width: 50vw;
+}
+
+.CardContent {
+	padding-bottom: 0.4rem!important;
+}
+
+.CardActions {
+	padding: 0rem;
+	display: flex;
+	justify-content: flex-end;
+}
+
+.CardImage {
+	height: fit-content
+}
+
+.ProductTitle {
+	font-size: 1.2rem;
+	text-align: start;
+}
+
+.BookAuthor {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	font-size: 0.8rem;
+}
+
+.Price {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	align-items: center;
+	font-size: 0.8rem;
+	padding-block: 0.4rem;
+	min-width: fit-content
+}
+
+.PersonIcon {
+	margin-right: 0.2rem;
+}
+
+.SellIcon {
+	margin-right: 0.2rem;
+}

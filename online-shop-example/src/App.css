@@ -1,0 +1,27 @@
+.App {
+  	text-align: center;
+ 	font-size: 12px;
+  	height: 100vh;
+  	background-image: url('https://c.wallhere.com/photos/15/e5/library_Photoshop_magic_Misty_romantic_book_store_books_reading-1795045.jpg!d');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.menu {
+	margin-bottom: 20px;
+  }
+  
+.popup {
+	max-width: 400px !important;
+}
+  
+.card-image {
+	height: 350px;
+	overflow: hidden;
+}
+  
+.card-image img {
+	width: 100%;
+}
+  
