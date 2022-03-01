@@ -1,0 +1,13 @@
+<svg width="125" height="125" viewBox="0 0 125 125" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="62.5" cy="62.5" r="62.5" fill="#3E41DE"/>
+<circle cx="42.6791" cy="57.143" r="1.21429" fill="white"/>
+<path d="M90 90V30C90 27.7909 88.2091 26 86 26H49.211C48.4341 26 47.6875 26.3014 47.1283 26.8407L33.9173 39.5833C33.3311 40.1487 33 40.9281 33 41.7426V90C33 92.2091 34.7909 94 37 94H86C88.2091 94 90 92.2091 90 90Z" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M50 26V40C50 41.1046 49.1046 42 48 42H33" stroke="white" stroke-width="2"/>
+<path d="M43 50H82" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M49 57L82 57" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M43 64H82" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M43 71H60" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path d="M43 78H60" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<rect x="69" y="72" width="25.4166" height="25.4166" rx="1" fill="#3E41DE" stroke="white" stroke-width="2"/>
+<path d="M75.0742 81.7438L79.5114 89.3743C80.2662 90.6724 82.1291 90.7067 82.9311 89.4371L90.1091 78.0752" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</svg>
